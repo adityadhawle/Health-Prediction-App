@@ -83,7 +83,7 @@ The SQLite database file is generated automatically when the application runs.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/adityadhawle/Health-Prediction-App.git
 cd Health-Prediction-App
 ```
 
@@ -195,3 +195,4 @@ B.Tech – Electronics and Telecommunication Engineering
 ## 📄 License
 
 This project was developed as part of a technical assessment.
+
