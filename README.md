@@ -64,7 +64,6 @@ Health-Prediction-App/
 ├── validation.py
 ├── ai_service.py
 ├── import_patients.py
-├── patients.csv
 │
 ├── test_validation.py
 ├── test_ai.py
@@ -195,4 +194,3 @@ B.Tech – Electronics and Telecommunication Engineering
 ## 📄 License
 
 This project was developed as part of a technical assessment.
-
