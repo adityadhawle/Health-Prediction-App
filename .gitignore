@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+health_prediction.db
+# Patient data - keep private
+patients.csv
